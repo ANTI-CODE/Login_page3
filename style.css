@@ -63,7 +63,7 @@ body{
     color: #fff;
     margin-bottom: 35px;
     outline:none;
-	transition:all .2s;
+	transition:background .2s;
 }
 #loginbox input[type="submit"]:hover{
 	cursor:pointer;
